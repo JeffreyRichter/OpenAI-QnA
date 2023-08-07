@@ -1,0 +1,1 @@
+VectorDB createdb -src=.\BoatSurvey.pdf -db=BoatSurvey.vdb -url=https://openai-shared.openai.azure.com/ -apikey=<apikey>

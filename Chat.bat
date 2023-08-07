@@ -1,0 +1,1 @@
+VectorDB chat -db=BoatSurvey.db -url=https://openai-shared.openai.azure.com/ -apikey=<apikey>
